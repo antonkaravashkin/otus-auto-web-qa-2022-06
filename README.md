@@ -1,0 +1,1 @@
+# otus-auto-web-qa-2022-06
