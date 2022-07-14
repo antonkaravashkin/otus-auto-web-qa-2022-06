@@ -2,11 +2,13 @@ class Figure:
     def __init__(self, area=None):
         self.area = area
     
-    def area(self):
-        return NotImplementedError("В дочернем классе необходимо переопределить метод area")
+    @property
+    def area(self) -> int:
+        pass
     
-    def perimeter(self):
-        return NotImplementedError("В дочернем классе необходимо переопределить метод perimeter")
+    @property
+    def perimeter(self) -> int:
+        pass
     
     def add_area(self, other):
         if isinstance(other, Figure):
