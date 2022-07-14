@@ -2,8 +2,8 @@ from src.Figure import Figure
 import math
 
 
-class Triangle(Figure):
-    def __init__(self, side1=None, side2=None, side3=None):
+class Triangle(Figure):    
+    def __init__(self, side1=None, side2=None, side3=None):     
         if None in [side1, side2, side3]:
             raise ValueError('Треугольник задается тремя сторонами')
         else:
