@@ -1,9 +1,9 @@
 [
     {
-        "gender": "female",
         "name": "Lolita Lynn",
-        "age": 34,
+        "gender": "female",
         "address": "389 Neptune Avenue, Belfair, Iowa, 6116",
+        "age": 34,
         "books": [
             {
                 "Title": "Fundamentals of Wavelets",
@@ -53,22 +53,22 @@
                 "Genre": "history",
                 "Pages": "217",
                 "Publisher": "Orient Blackswan"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Tonia Hurst",
+        "gender": "female",
+        "address": "917 Terrace Place, Urbana, Idaho, 684",
+        "age": 31,
+        "books": [
             {
                 "Title": "Drunkard's Walk, The",
                 "Author": "Mlodinow, Leonard",
                 "Genre": "science",
                 "Pages": "197",
                 "Publisher": "Penguin"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Tonia Hurst",
-        "age": 31,
-        "address": "917 Terrace Place, Urbana, Idaho, 684",
-        "books": [
+            },
             {
                 "Title": "Image Processing & Mathematical Morphology",
                 "Author": "Shih, Frank",
@@ -117,22 +117,22 @@
                 "Genre": "history",
                 "Pages": "238",
                 "Publisher": "Penguin"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Brooks Bright",
+        "gender": "male",
+        "address": "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506",
+        "age": 39,
+        "books": [
             {
                 "Title": "Trial, The",
                 "Author": "Kafka, Frank",
                 "Genre": "fiction",
                 "Pages": "198",
                 "Publisher": "Random House"
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Brooks Bright",
-        "age": 39,
-        "address": "901 Mermaid Avenue, Wyoming, Marshall Islands, 8506",
-        "books": [
+            },
             {
                 "Title": "Statistical Decision Theory'",
                 "Author": "Pratt, John",
@@ -174,7 +174,15 @@
                 "Genre": "mathematics",
                 "Pages": "248",
                 "Publisher": "HBA"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Kathrine Sharp",
+        "gender": "female",
+        "address": "989 Huron Street, Talpa, Utah, 7018",
+        "age": 40,
+        "books": [
             {
                 "Title": "Machine Learning for Hackers",
                 "Author": "Conway, Drew",
@@ -188,15 +196,7 @@
                 "Genre": "data_science",
                 "Pages": "233",
                 "Publisher": "Penguin"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Kathrine Sharp",
-        "age": 40,
-        "address": "989 Huron Street, Talpa, Utah, 7018",
-        "books": [
+            },
             {
                 "Title": "Python for Data Analysis",
                 "Author": "McKinney, Wes",
@@ -238,7 +238,15 @@
                 "Genre": "fiction",
                 "Pages": "176",
                 "Publisher": "Random House"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Shawn Harrell",
+        "gender": "female",
+        "address": "534 Hinsdale Street, Albany, Palau, 3291",
+        "age": 34,
+        "books": [
             {
                 "Title": "Wealth of Nations, The",
                 "Author": "Smith, Adam",
@@ -252,15 +260,7 @@
                 "Genre": "fiction",
                 "Pages": "176",
                 "Publisher": "Random House"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Shawn Harrell",
-        "age": 34,
-        "address": "534 Hinsdale Street, Albany, Palau, 3291",
-        "books": [
+            },
             {
                 "Title": "Mein Kampf",
                 "Author": "Hitler, Adolf",
@@ -295,7 +295,15 @@
                 "Genre": "fiction",
                 "Pages": "177",
                 "Publisher": "Transworld"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Amy Casey",
+        "gender": "female",
+        "address": "589 Townsend Street, Hiseville, Connecticut, 7082",
+        "age": 31,
+        "books": [
             {
                 "Title": "False Impressions",
                 "Author": "Archer, Jeffery",
@@ -316,15 +324,7 @@
                 "Genre": "philosophy",
                 "Pages": "202",
                 "Publisher": "Penguin"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Amy Casey",
-        "age": 31,
-        "address": "589 Townsend Street, Hiseville, Connecticut, 7082",
-        "books": [
+            },
             {
                 "Title": "Jurassic Park",
                 "Author": "Crichton, Michael",
@@ -359,7 +359,15 @@
                 "Genre": "science",
                 "Pages": "197",
                 "Publisher": "HarperCollins"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Lorena Mejia",
+        "gender": "female",
+        "address": "614 High Street, Blanford, Maryland, 2776",
+        "age": 24,
+        "books": [
             {
                 "Title": "Story of Philosophy, The",
                 "Author": "Durant, Will",
@@ -380,15 +388,7 @@
                 "Genre": "fiction",
                 "Pages": "196",
                 "Publisher": "Penguin"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Lorena Mejia",
-        "age": 24,
-        "address": "614 High Street, Blanford, Maryland, 2776",
-        "books": [
+            },
             {
                 "Title": "Once There Was a War",
                 "Author": "Steinbeck, John",
@@ -416,7 +416,15 @@
                 "Genre": "fiction",
                 "Pages": "196",
                 "Publisher": "Rupa"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Allyson Wilkins",
+        "gender": "female",
+        "address": "572 Downing Street, Ivanhoe, American Samoa, 8235",
+        "age": 29,
+        "books": [
             {
                 "Title": "Catch 22",
                 "Author": "Heller, Joseph",
@@ -444,15 +452,7 @@
                 "Genre": "data_science",
                 "Pages": "242",
                 "Publisher": "Elsevier"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Allyson Wilkins",
-        "age": 29,
-        "address": "572 Downing Street, Ivanhoe, American Samoa, 8235",
-        "books": [
+            },
             {
                 "Title": "Textbook of Economic Theory",
                 "Author": "Stonier, Alfred",
@@ -480,7 +480,15 @@
                 "Genre": "computer_science",
                 "Pages": "235",
                 "Publisher": "Prentice Hall"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Mays Reed",
+        "gender": "male",
+        "address": "306 Georgia Avenue, Hall, New Mexico, 1402",
+        "age": 38,
+        "books": [
             {
                 "Title": "Computer Vision, A Modern Approach",
                 "Author": "Forsyth, David",
@@ -508,15 +516,7 @@
                 "Genre": "fiction",
                 "Pages": "179",
                 "Publisher": "Random House"
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Mays Reed",
-        "age": 38,
-        "address": "306 Georgia Avenue, Hall, New Mexico, 1402",
-        "books": [
+            },
             {
                 "Title": "Crime and Punishment",
                 "Author": "Dostoevsky, Fyodor",
@@ -537,7 +537,15 @@
                 "Genre": "nonfiction",
                 "Pages": "209",
                 "Publisher": "Picador"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Katherine Mayer",
+        "gender": "female",
+        "address": "640 Prescott Place, Curtice, Kansas, 3395",
+        "age": 27,
+        "books": [
             {
                 "Title": "Sea of Poppies",
                 "Author": "Ghosh, Amitav",
@@ -572,15 +580,7 @@
                 "Genre": "fiction",
                 "Pages": "176",
                 "Publisher": "Pan"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Katherine Mayer",
-        "age": 27,
-        "address": "640 Prescott Place, Curtice, Kansas, 3395",
-        "books": [
+            },
             {
                 "Title": "Scoop!",
                 "Author": "Nayar, Kuldip",
@@ -601,7 +601,15 @@
                 "Genre": "history",
                 "Pages": "199",
                 "Publisher": "Penguin"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Kelly Byers",
+        "gender": "female",
+        "address": "865 Revere Place, Homeland, Arizona, 232",
+        "age": 35,
+        "books": [
             {
                 "Title": "Social Choice & Welfare, Vol 39 No. 1",
                 "Author": "Various",
@@ -636,15 +644,7 @@
                 "Genre": "fiction",
                 "Pages": "221",
                 "Publisher": "Mauj"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Kelly Byers",
-        "age": 35,
-        "address": "865 Revere Place, Homeland, Arizona, 232",
-        "books": [
+            },
             {
                 "Title": "Beyond Degrees",
                 "Author": "",
@@ -658,7 +658,15 @@
                 "Genre": "nonfiction",
                 "Pages": "213",
                 "Publisher": "Mauj"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Schwartz Carey",
+        "gender": "male",
+        "address": "860 Centre Street, Hiwasse, Nevada, 2819",
+        "age": 32,
+        "books": [
             {
                 "Title": "India from Midnight to Milennium",
                 "Author": "Tharoor, Shashi",
@@ -700,15 +708,7 @@
                 "Genre": "history",
                 "Pages": "167",
                 "Publisher": "vikas"
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Schwartz Carey",
-        "age": 32,
-        "address": "860 Centre Street, Hiwasse, Nevada, 2819",
-        "books": [
+            },
             {
                 "Title": "Winter of Our Discontent, The",
                 "Author": "Steinbeck, John",
@@ -722,7 +722,15 @@
                 "Genre": "philosophy",
                 "Pages": "203",
                 "Publisher": "Routledge"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Kay Beasley",
+        "gender": "female",
+        "address": "358 Sutton Street, Bellamy, Ohio, 8845",
+        "age": 34,
+        "books": [
             {
                 "Title": "Free Will",
                 "Author": "Harris, Sam",
@@ -764,22 +772,22 @@
                 "Genre": "science",
                 "Pages": "201",
                 "Publisher": "Penguin"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Kay Beasley",
-        "age": 34,
-        "address": "358 Sutton Street, Bellamy, Ohio, 8845",
-        "books": [
+            },
             {
                 "Title": "Hunchback of Notre Dame, The",
                 "Author": "Hugo, Victor",
                 "Genre": "fiction",
                 "Pages": "175",
                 "Publisher": "Random House"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Robbins Gordon",
+        "gender": "male",
+        "address": "610 Langham Street, Boykin, Guam, 6688",
+        "age": 23,
+        "books": [
             {
                 "Title": "Burning Bright",
                 "Author": "Steinbeck, John",
@@ -828,22 +836,22 @@
                 "Genre": "fiction",
                 "Pages": "217",
                 "Publisher": "Jaico"
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Robbins Gordon",
-        "age": 23,
-        "address": "610 Langham Street, Boykin, Guam, 6688",
-        "books": [
+            },
             {
                 "Title": "Talking Straight",
                 "Author": "Iacoca, Lee",
                 "Genre": "nonfiction",
                 "Pages": "175",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Hillary Bauer",
+        "gender": "female",
+        "address": "951 Cumberland Street, Alleghenyville, Oregon, 7073",
+        "age": 39,
+        "books": [
             {
                 "Title": "Maugham's Collected Short Stories, Vol 3",
                 "Author": "Maugham, William S",
@@ -892,22 +900,22 @@
                 "Genre": "science",
                 "Pages": "186",
                 "Publisher": "HighStakes"
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Hillary Bauer",
-        "age": 39,
-        "address": "951 Cumberland Street, Alleghenyville, Oregon, 7073",
-        "books": [
+            },
             {
                 "Title": "History of Western Philosophy",
                 "Author": "Russell, Bertrand",
                 "Genre": "philosophy",
                 "Pages": "213",
                 "Publisher": "Routledge"
-            },
+            }
+        ]
+    },
+    {
+        "name": "Ruiz Phelps",
+        "gender": "male",
+        "address": "836 Troutman Street, Harborton, Kentucky, 4030",
+        "age": 36,
+        "books": [
             {
                 "Title": "Selected Short Stories",
                 "Author": "",
@@ -960,10 +968,10 @@
         ]
     },
     {
-        "gender": "male",
-        "name": "Ruiz Phelps",
-        "age": 36,
-        "address": "836 Troutman Street, Harborton, Kentucky, 4030",
+        "name": "Carolina Bryant",
+        "gender": "female",
+        "address": "377 Middagh Street, Ellerslie, Nebraska, 2644",
+        "age": 31,
         "books": [
             {
                 "Title": "Half A Life",
@@ -1024,10 +1032,10 @@
         ]
     },
     {
-        "gender": "female",
-        "name": "Carolina Bryant",
+        "name": "Sosa Lee",
+        "gender": "male",
+        "address": "364 Holly Street, Omar, California, 5140",
         "age": 31,
-        "address": "377 Middagh Street, Ellerslie, Nebraska, 2644",
         "books": [
             {
                 "Title": "Moon and Sixpence, The",
@@ -1077,22 +1085,22 @@
                 "Genre": "data_science",
                 "Pages": "241",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Lorna Scott",
+        "gender": "female",
+        "address": "878 Marconi Place, Gerton, Alabama, 845",
+        "age": 24,
+        "books": [
             {
                 "Title": "From Beirut to Jerusalem",
                 "Author": "Friedman, Thomas",
                 "Genre": "history",
                 "Pages": "202",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Sosa Lee",
-        "age": 31,
-        "address": "364 Holly Street, Omar, California, 5140",
-        "books": [
+            },
             {
                 "Title": "Code Book, The",
                 "Author": "Singh, Simon",
@@ -1141,22 +1149,22 @@
                 "Genre": "comic",
                 "Pages": "258",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Bernard Holden",
+        "gender": "male",
+        "address": "674 Pine Street, Conestoga, Mississippi, 4727",
+        "age": 32,
+        "books": [
             {
                 "Title": "Numbers Behind Numb3rs, The",
                 "Author": "Devlin, Keith",
                 "Genre": "science",
                 "Pages": "202",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Lorna Scott",
-        "age": 24,
-        "address": "878 Marconi Place, Gerton, Alabama, 845",
-        "books": [
+            },
             {
                 "Title": "Superman Earth One - 1",
                 "Author": "",
@@ -1198,7 +1206,15 @@
                 "Genre": "comic",
                 "Pages": "258",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Craft Shields",
+        "gender": "male",
+        "address": "586 Java Street, Catherine, Arkansas, 1445",
+        "age": 31,
+        "books": [
             {
                 "Title": "Batman: The Long Halloween",
                 "Author": "",
@@ -1212,15 +1228,7 @@
                 "Genre": "nonfiction",
                 "Pages": "196",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Bernard Holden",
-        "age": 32,
-        "address": "674 Pine Street, Conestoga, Mississippi, 4727",
-        "books": [
+            },
             {
                 "Title": "Information, The",
                 "Author": "Gleick, James",
@@ -1262,7 +1270,15 @@
                 "Genre": "data_science",
                 "Pages": "240",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Mara English",
+        "gender": "female",
+        "address": "324 Herkimer Court, Boomer, Delaware, 5367",
+        "age": 23,
+        "books": [
             {
                 "Title": "Grapes of Wrath, The",
                 "Author": "Steinbeck, John",
@@ -1276,15 +1292,7 @@
                 "Genre": "nonfiction",
                 "Pages": "211",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Craft Shields",
-        "age": 31,
-        "address": "586 Java Street, Catherine, Arkansas, 1445",
-        "books": [
+            },
             {
                 "Title": "Statistical Learning Theory",
                 "Author": "Vapnik, Vladimir",
@@ -1319,7 +1327,15 @@
                 "Genre": "history",
                 "Pages": "180",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Fisher Levy",
+        "gender": "male",
+        "address": "540 Adler Place, Hachita, Federated States Of Micronesia, 9894",
+        "age": 30,
+        "books": [
             {
                 "Title": "Empire of the Mughal - Raiders from the North",
                 "Author": "Rutherford, Alex",
@@ -1340,15 +1356,7 @@
                 "Genre": "nonfiction",
                 "Pages": "223",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Mara English",
-        "age": 23,
-        "address": "324 Herkimer Court, Boomer, Delaware, 5367",
-        "books": [
+            },
             {
                 "Title": "20000 Leagues Under the Sea",
                 "Author": "Verne, Jules",
@@ -1383,7 +1391,15 @@
                 "Genre": "computer_science",
                 "Pages": "213",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Cecelia Snyder",
+        "gender": "female",
+        "address": "236 Anchorage Place, Odessa, Michigan, 6314",
+        "age": 25,
+        "books": [
             {
                 "Title": "Cathedral and the Bazaar, The",
                 "Author": "Raymond, Eric",
@@ -1404,15 +1420,7 @@
                 "Genre": "data_science",
                 "Pages": "230",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Fisher Levy",
-        "age": 30,
-        "address": "540 Adler Place, Hachita, Federated States Of Micronesia, 9894",
-        "books": [
+            },
             {
                 "Title": "Devil's Advocate, The",
                 "Author": "West, Morris",
@@ -1440,7 +1448,15 @@
                 "Genre": "philosophy",
                 "Pages": "189",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Nina Kaufman",
+        "gender": "female",
+        "address": "538 Ashford Street, Boling, West Virginia, 7840",
+        "age": 22,
+        "books": [
             {
                 "Title": "Data Analysis with Open Source Tools",
                 "Author": "Janert, Phillip",
@@ -1468,15 +1484,7 @@
                 "Genre": "science",
                 "Pages": "240",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Cecelia Snyder",
-        "age": 25,
-        "address": "236 Anchorage Place, Odessa, Michigan, 6314",
-        "books": [
+            },
             {
                 "Title": "Justice, Judiciary and Democracy",
                 "Author": "Ranjan, Sudhanshu",
@@ -1504,7 +1512,15 @@
                 "Genre": "philosophy",
                 "Pages": "216",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Dillard Branch",
+        "gender": "male",
+        "address": "225 Hampton Avenue, Bethany, Pennsylvania, 8056",
+        "age": 37,
+        "books": [
             {
                 "Title": "Courtroom Genius, The",
                 "Author": "Sorabjee",
@@ -1532,15 +1548,7 @@
                 "Genre": "history",
                 "Pages": "198",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "female",
-        "name": "Nina Kaufman",
-        "age": 22,
-        "address": "538 Ashford Street, Boling, West Virginia, 7840",
-        "books": [
+            },
             {
                 "Title": "India's Legal System",
                 "Author": "Nariman",
@@ -1561,7 +1569,15 @@
                 "Genre": "fiction",
                 "Pages": "196",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Dyer Bartlett",
+        "gender": "male",
+        "address": "880 Meadow Street, Seymour, Puerto Rico, 7921",
+        "age": 33,
+        "books": [
             {
                 "Title": "Angels & Demons",
                 "Author": "Brown, Dan",
@@ -1596,15 +1612,7 @@
                 "Genre": "fiction",
                 "Pages": "180",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Dillard Branch",
-        "age": 37,
-        "address": "225 Hampton Avenue, Bethany, Pennsylvania, 8056",
-        "books": [
+            },
             {
                 "Title": "Tales of Beedle the Bard",
                 "Author": "Rowling, J K",
@@ -1625,7 +1633,15 @@
                 "Genre": "fiction",
                 "Pages": "179",
                 "Publisher": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Tyler Dotson",
+        "gender": "male",
+        "address": "220 Herkimer Place, Turpin, Oklahoma, 4468",
+        "age": 20,
+        "books": [
             {
                 "Title": "Girl who played with Fire",
                 "Author": "Larsson, Steig",
@@ -1660,15 +1676,7 @@
                 "Genre": "signal_processing",
                 "Pages": "241",
                 "Publisher": ""
-            }
-        ]
-    },
-    {
-        "gender": "male",
-        "name": "Dyer Bartlett",
-        "age": 33,
-        "address": "880 Meadow Street, Seymour, Puerto Rico, 7921",
-        "books": [
+            },
             {
                 "Title": "Animal Farm",
                 "Author": "Orwell, George",
@@ -1691,12 +1699,5 @@
                 "Publisher": ""
             }
         ]
-    },
-    {
-        "gender": "male",
-        "name": "Tyler Dotson",
-        "age": 20,
-        "address": "220 Herkimer Place, Turpin, Oklahoma, 4468",
-        "books": null
     }
 ]
