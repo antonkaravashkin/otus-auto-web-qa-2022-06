@@ -10,10 +10,18 @@ def split_list(alist, wanted_parts=1):
 
 def merging_users_books():
     result_json = []
+    refactored_books = []
     with open("books.csv", "r") as csv_b, open("users.json", "r") as users:
-        books = list(csv.DictReader(csv_b))
+        books_list = list(csv.DictReader(csv_b))
+        for i in range(len(books_list)):
+            books = {"title": books_list[i]["Title"],
+                     "author": books_list[i]["Author"],
+                     "pages": int(books_list[i]["Pages"]),
+                     "genre": books_list[i]["Genre"]
+                     }
+            refactored_books.append(books)
         users_json = json.load(users)
-        splitted_books = split_list(alist=books, wanted_parts=len(users_json))
+        splitted_books = split_list(alist=refactored_books, wanted_parts=len(users_json))
     for item, value in zip(users_json, splitted_books):
         item["books"] = value
         generated_user = {key: item[key] for key in ("name", "gender", "address", "age", "books")}
